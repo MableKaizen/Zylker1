@@ -1,0 +1,14 @@
+{
+    "singular_label": "Conference",
+    "plural_label": "Conferences",
+    "api_name": "Conference",
+    "profiles": [
+        {
+            "api_name": "Administrator"
+        }
+    ],
+    "display_field": {
+        "api_name": "Conferences"
+    },
+    "show_as_tab": true
+}
