@@ -1,0 +1,22 @@
+{
+    "field_label": "ConferenceAttendees",
+    "display_name": "ConferenceAttendees",
+    "api_name": "ConferenceAttendees",
+    "type": "used",
+    "data_type": "multiselectlookup",
+    "multiselectlookup": {
+        "connected_details": {
+            "module": {
+                "api_name": "Attendee"
+            },
+            "field": {
+                "field_label": "AttendingConference"
+            }
+        },
+        "linking_details": {
+            "module": {
+                "plural_label": "Conferences_X_attendees"
+            }
+        }
+    }
+}
