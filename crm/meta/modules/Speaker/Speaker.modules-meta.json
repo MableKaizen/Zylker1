@@ -1,14 +1,21 @@
 {
-    "singular_label": "Speaker",
-    "plural_label": "Speaker1",
-    "api_name": "Speaker",
-    "profiles": [
-        {
-            "api_name": "Administrator"
-        }
-    ],
-    "display_field": {
-        "api_name": "Speaker1"
-    },
-    "show_as_tab": true
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Name"
+  },
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Speaker",
+  "sequence_number": 117,
+  "api_supported": true,
+  "plural_label": "Speaker1",
+  "api_name": "Speaker",
+  "module_name": "CustomModule3",
+  "parent_module": null
 }

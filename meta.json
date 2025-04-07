@@ -1,3 +1,47 @@
 {
-    "resource_type": "all"
+    "resource_type": "specific",
+    "resources": [
+        {
+            "resource_type": "fields",
+            "resources": [
+                {
+                    "api_name": "Attendee.*"
+                },
+                {
+                    "api_name": "Conference.*"
+                },
+                {
+                    "api_name": "Venue.*"
+                },
+                {
+                    "api_name": "Speaker.*"
+                }
+            ]
+        },
+        {
+            "resource_type": "modules",
+            "resources": [
+                {
+                    "api_name": "Attendee"
+                },
+                {
+                    "api_name": "Conference"
+                },
+                {
+                    "api_name": "Venue"
+                },
+                {
+                    "api_name": "Speaker"
+                }
+            ]
+        },
+        {
+            "resource_type": "widgets",
+            "resources": [
+                {
+                    "api_name": "*"
+                }
+            ]
+        }
+    ]
 }
