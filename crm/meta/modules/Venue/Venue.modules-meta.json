@@ -1,0 +1,14 @@
+{
+    "singular_label": "Venue",
+    "plural_label": "Venues",
+    "api_name": "Venue",
+    "profiles": [
+        {
+            "api_name": "Administrator"
+        }
+    ],
+    "display_field": {
+        "api_name": "Venues"
+    },
+    "show_as_tab": true
+}

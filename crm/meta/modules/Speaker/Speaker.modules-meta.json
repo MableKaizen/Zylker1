@@ -1,0 +1,14 @@
+{
+    "singular_label": "Speaker",
+    "plural_label": "Speaker1",
+    "api_name": "Speaker",
+    "profiles": [
+        {
+            "api_name": "Administrator"
+        }
+    ],
+    "display_field": {
+        "api_name": "Speaker1"
+    },
+    "show_as_tab": true
+}
