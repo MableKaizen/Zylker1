@@ -1,0 +1,14 @@
+{
+    "singular_label": "Attendee",
+    "plural_label": "Attendees",
+    "api_name": "Attendee",
+    "profiles": [
+        {
+            "api_name": "Administrator"
+        }
+    ],
+    "display_field": {
+        "api_name": "Attendees"
+    },
+    "show_as_tab": true
+}
