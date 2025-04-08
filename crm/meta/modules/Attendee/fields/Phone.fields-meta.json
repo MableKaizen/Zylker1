@@ -1,0 +1,7 @@
+{
+    "field_label": "Phone",
+    "display_name": "Phone",
+    "api_name": "Phone",
+    "type": "used",
+    "data_type": "phone"
+}

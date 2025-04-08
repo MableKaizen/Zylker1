@@ -1,0 +1,7 @@
+{
+    "field_label": "First Name",
+    "display_name": "First Name",
+    "api_name": "First_Name",
+    "type": "used",
+    "data_type": "text"
+}
