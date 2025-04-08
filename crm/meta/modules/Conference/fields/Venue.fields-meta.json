@@ -1,0 +1,15 @@
+
+{
+    "field_label": "Venue",
+    "display_name": "Venue",
+    "api_name": "Venue",
+    "type": "used",
+    "data_type": "lookup",
+    "lookup": {
+        "display_label": "Venue1",
+        "api_name": "Venue",
+        "module": {
+          "api_name": "Venue"
+        }
+      }
+}
