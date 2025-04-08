@@ -1,0 +1,7 @@
+{
+    "field_label": "Street",
+    "display_name": "Street",
+    "api_name": "Street",
+    "type": "used",
+    "data_type": "text"
+}
