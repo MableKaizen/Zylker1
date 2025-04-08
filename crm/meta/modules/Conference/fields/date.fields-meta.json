@@ -1,0 +1,7 @@
+{
+    "field_label": "date",
+    "display_name": "date",
+    "api_name": "date",
+    "type": "used",
+    "data_type": "datetime"
+}

@@ -1,0 +1,28 @@
+{
+    "field_label": "Status",
+    "display_name": "Status",
+    "api_name": "Status",
+    "type": "used",
+    "data_type": "picklist",
+    "pick_list_values": [
+            
+        {
+          "display_value": "Planned",
+          "sequence_number": 2,
+          "actual_value": "Planned",
+          "type": "used"
+        },
+        {
+            "display_value": "Ongoing",
+            "sequence_number": 2,
+            "actual_value": "Ongoing",
+            "type": "used"
+          },
+          {
+            "display_value": "Completed",
+            "sequence_number": 2,
+            "actual_value": "Completed",
+            "type": "used"
+          }
+    ]
+}

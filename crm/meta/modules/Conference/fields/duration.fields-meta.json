@@ -1,0 +1,7 @@
+{
+    "field_label": "duration",
+    "display_name": "duration",
+    "api_name": "duration",
+    "type": "used",
+    "data_type": "double"
+}

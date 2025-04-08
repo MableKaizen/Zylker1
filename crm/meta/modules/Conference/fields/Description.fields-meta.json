@@ -1,0 +1,7 @@
+{
+    "field_label": "Description",
+    "display_name": "Description",
+    "api_name": "Description",
+    "type": "used",
+    "data_type": "textarea"
+}
