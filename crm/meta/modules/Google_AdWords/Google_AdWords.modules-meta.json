@@ -1,0 +1,19 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Google AdWord",
+  "sequence_number": 37,
+  "api_supported": false,
+  "plural_label": "Google Ads",
+  "api_name": "Google_AdWords",
+  "module_name": "Google AdWords",
+  "parent_module": null
+}

@@ -1,0 +1,24 @@
+{
+  "visibility": 2,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Team_Member"
+  },
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Preferred Team Members",
+  "sequence_number": null,
+  "api_supported": true,
+  "plural_label": "Preferred Team Members",
+  "api_name": "Preferred_Team_Members__s",
+  "module_name": "PreferredTeamMembers",
+  "parent_module": null
+}

@@ -1,0 +1,57 @@
+{
+  "system_mandatory": false,
+  "associated_module": null,
+  "private": null,
+  "webhook": true,
+  "json_type": "jsonobject",
+  "crypt": null,
+  "field_label": "Record Name",
+  "tooltip": null,
+  "textarea": null,
+  "created_source": "default",
+  "type": "used",
+  "field_read_only": true,
+  "display_label": "Record Name",
+  "association_details": null,
+  "multi_module_lookup": {
+    "display_label": "Approval Logs",
+    "api_name": "Approval_Logs__s",
+    "modules": null
+  },
+  "currency": null,
+  "multiuserlookup": null,
+  "custom_field": false,
+  "filterable": true,
+  "hipaa_compliance": null,
+  "lookup": null,
+  "length": 50,
+  "profile_permissions": [
+    {
+      "permission_type": "read_only",
+      "visible": true,
+      "profile": {
+        "api_name": "Administrator"
+      }
+    },
+    {
+      "permission_type": "read_only",
+      "visible": true,
+      "profile": {
+        "api_name": "Standard"
+      }
+    }
+  ],
+  "pick_list_values_sorted_lexically": false,
+  "sortable": false,
+  "global_picklist": null,
+  "external": null,
+  "api_name": "Record_Name",
+  "unique": null,
+  "data_type": "multi_module_lookup",
+  "formula": null,
+  "hipaa_compliance_enabled": null,
+  "decimal_place": null,
+  "multiselectlookup": null,
+  "pick_list_values": null,
+  "auto_number": null
+}

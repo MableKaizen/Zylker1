@@ -1,0 +1,22 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Attachment",
+  "sequence_number": 33,
+  "api_supported": true,
+  "plural_label": "Attachments",
+  "api_name": "Attachments",
+  "module_name": "Attachments",
+  "parent_module": null
+}

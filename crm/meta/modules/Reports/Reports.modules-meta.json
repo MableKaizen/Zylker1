@@ -1,0 +1,22 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Report",
+  "sequence_number": 7,
+  "api_supported": false,
+  "plural_label": "Reports",
+  "api_name": "Reports",
+  "module_name": "Reports",
+  "parent_module": null
+}

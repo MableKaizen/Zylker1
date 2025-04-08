@@ -1,0 +1,26 @@
+{
+  "visibility": 2,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Name"
+  },
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Ordered Items",
+  "sequence_number": 24,
+  "api_supported": true,
+  "plural_label": "Ordered Items",
+  "api_name": "Ordered_Items",
+  "module_name": "OrderedItems",
+  "parent_module": {
+    "api_name": "Sales_Orders"
+  }
+}

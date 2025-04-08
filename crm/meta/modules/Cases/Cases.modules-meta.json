@@ -1,0 +1,24 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Subject"
+  },
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Case",
+  "sequence_number": 19,
+  "api_supported": true,
+  "plural_label": "Cases",
+  "api_name": "Cases",
+  "module_name": "Cases",
+  "parent_module": null
+}

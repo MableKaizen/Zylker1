@@ -1,0 +1,24 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Solution_Title"
+  },
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Solution",
+  "sequence_number": 20,
+  "api_supported": true,
+  "plural_label": "Solutions",
+  "api_name": "Solutions",
+  "module_name": "Solutions",
+  "parent_module": null
+}

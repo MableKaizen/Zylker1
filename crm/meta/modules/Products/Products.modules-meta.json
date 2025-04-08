@@ -1,0 +1,24 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Product_Name"
+  },
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Product",
+  "sequence_number": 9,
+  "api_supported": true,
+  "plural_label": "Products",
+  "api_name": "Products",
+  "module_name": "Products",
+  "parent_module": null
+}

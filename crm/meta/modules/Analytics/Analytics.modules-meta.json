@@ -1,0 +1,22 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Analytics",
+  "sequence_number": 8,
+  "api_supported": false,
+  "plural_label": "Analytics",
+  "api_name": "Analytics",
+  "module_name": "Dashboards",
+  "parent_module": null
+}

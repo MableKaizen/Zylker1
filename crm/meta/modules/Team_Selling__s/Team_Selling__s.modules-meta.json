@@ -1,0 +1,19 @@
+{
+  "visibility": 2,
+  "profiles": null,
+  "description": null,
+  "display_field": {
+    "api_name": "Team_Member"
+  },
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Team Selling",
+  "sequence_number": null,
+  "api_supported": true,
+  "plural_label": "Team Selling",
+  "api_name": "Team_Selling__s",
+  "module_name": "TeamSelling",
+  "parent_module": {
+    "api_name": "Deals"
+  }
+}

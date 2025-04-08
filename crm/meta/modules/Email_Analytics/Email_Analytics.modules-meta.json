@@ -1,0 +1,22 @@
+{
+  "visibility": 2,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Email Analytics",
+  "sequence_number": 24,
+  "api_supported": true,
+  "plural_label": "Email Analytics",
+  "api_name": "Email_Analytics",
+  "module_name": "Email Analytics",
+  "parent_module": null
+}

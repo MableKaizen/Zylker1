@@ -1,0 +1,22 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Actions Performed",
+  "sequence_number": 39,
+  "api_supported": true,
+  "plural_label": "Actions Performed",
+  "api_name": "Actions_Performed",
+  "module_name": "Actions Performed",
+  "parent_module": null
+}

@@ -1,0 +1,37 @@
+{
+  "visibility": 66,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    },
+    {
+      "api_name": "Administrator__p"
+    },
+    {
+      "api_name": "Manager__p"
+    },
+    {
+      "api_name": "Member__p"
+    },
+    {
+      "api_name": "Participant__p"
+    },
+    {
+      "api_name": "Requester__p"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Approval Action Log",
+  "sequence_number": 114,
+  "api_supported": true,
+  "plural_label": "Approval Action Logs",
+  "api_name": "Approval_Action_Logs__s",
+  "module_name": "ApprovalActionLogs",
+  "parent_module": null
+}

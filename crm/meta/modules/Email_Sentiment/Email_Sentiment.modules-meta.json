@@ -1,0 +1,22 @@
+{
+  "visibility": 2,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "EmailSentiment",
+  "sequence_number": 47,
+  "api_supported": true,
+  "plural_label": "EmailSentiment",
+  "api_name": "Email_Sentiment",
+  "module_name": "EmailSentiment",
+  "parent_module": null
+}

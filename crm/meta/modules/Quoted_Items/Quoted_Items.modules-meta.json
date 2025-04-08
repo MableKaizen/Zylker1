@@ -1,0 +1,26 @@
+{
+  "visibility": 2,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Name"
+  },
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Quoted Items",
+  "sequence_number": 23,
+  "api_supported": true,
+  "plural_label": "Quoted Items",
+  "api_name": "Quoted_Items",
+  "module_name": "QuotedItems",
+  "parent_module": {
+    "api_name": "Quotes"
+  }
+}
